@@ -1,0 +1,7 @@
+{
+    "name": "jopmesman/score",
+    "description": "Scorebaord for games. This can be integrated into a laravel project.",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
